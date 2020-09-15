@@ -1,11 +1,11 @@
 # Server-Clients-Chat
-This is a GUI Server/Clients multi-Thread Asynchronous Chat, using Socket, Threading, and Tkinter
+This is a Python GUI Server/Clients multi-Thread Asynchronous Chat, using Socket, Threading, and Tkinter
 
 ******
 
 I am a really huge fan of automation. I have some automated house programm that runs under Arduino, Actuators and Sensors (for example, an automated curtains related to the position of the sun).
 This is great but I have one device per application. This makes a lot of independants devices and each one has his properties.
-I want to regroups theses devices togethers and make a central server which can control everything.
+I want to regroups theses devices togethers and make a central server (Raspberry Pi) which can control everything.
 
 To achieve my goal, I decided to start by implementing a communication chat in LAN to understand the data communication.
 
